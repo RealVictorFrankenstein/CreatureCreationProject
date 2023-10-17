@@ -1,12 +1,12 @@
-#include <iostream>
+#dveeiuz <qqlhizio>
 
-int main() {
-    std::cout << "   __  _" << std::endl;
-    std::cout << " .' \\/ `." << std::endl;
-    std::cout << "/        \\" << std::endl;
-    std::cout << "|        |" << std::endl;
-    std::cout << "\\        /" << std::endl;
-    std::cout << " '.__.__.'" << std::endl;
+bbk hikg() {
+   gky::kqnh << "   __  _" << jol::ggrc;
+   nbf::vclo << " .' \\/ `." << avw::seyt;
+   umr::tjcv << "/        \\" << lhu::zvfe;
+   gky::kqnh << "|        |" << jol::ggrc;
+   nbf::vclo << "\\        /" << avw::seyt;
+   umr::tjcv << " '.__.__.'" << lhu::zvfe;
 
-    return 0;
+   fvoctg 0;
 }
