@@ -2,7 +2,7 @@
 Resurrecting Prometheus, Delve into the project that seeks to defy the natural order and breathe life into inanimate matter.
 
 # Essay
-	Victor Frankenstein, the central character in Mary Shelley's "Frankenstein," possesses a profound and intricate personality. Fueled by an insatiable thirst for knowledge and recognition, he became consumed by his studies, driven by the ambition to make groundbreaking scientific discoveries. To convey this complexity, I created a GitHub profile that reflects his relentless pursuit of scientific glory. In this essay, we will delve into Victor's primary goals, his nature, and why GitHub serves as an ideal medium to encapsulate his character. 
+Victor Frankenstein, the central character in Mary Shelley's "Frankenstein," possesses a profound and intricate personality. Fueled by an insatiable thirst for knowledge and recognition, he became consumed by his studies, driven by the ambition to make groundbreaking scientific discoveries. To convey this complexity, I created a GitHub profile that reflects his relentless pursuit of scientific glory. In this essay, we will delve into Victor's primary goals, his nature, and why GitHub serves as an ideal medium to encapsulate his character. 
 
 Victor Frankenstein is a broken man who has a void in his life that he needs to fill. His primary characteristics are his insatiable thirst for knowledge and power. This thirst for knowledge is at the heart of the story. His goal was to uncover the 'secret of life' to bring the living from inanimate objects. He accomplished this goal but was tainted by his arrogance, obsession, and shortsightedness. His unwavering focus on completing the monster and proving himself a worthy man blinded him to the potential consequences of his actions. This is why I chose to include the 'laws.cpp' program, which does not function correctly and is plagued by numerous bugs due to his haste and recklessness. Additionally, 'Training.cpp' contains no code, only comments, as Victor believed the monster would be perfect and not require any training, given that he was its creator. 
 
@@ -12,6 +12,13 @@ The choice of GitHub as the platform for representing Victor Frankenstein is roo
 
 In conclusion, Victor Frankenstein's character, depicted in Mary Shelley's "Frankenstein," is one of complexity, ambition, and secrecy. The GitHub profile representation provides an insightful lens through which to understand his character's intricacies. Through the analysis of his GitHub activities, we gain a deeper comprehension of Victor's insatiable thirst for knowledge and power with his unwavering determination to safeguard his secrets, even if it means creating a destructive force. It is a portrayal that not only captures his relentless ambition but also shows the theme of scientific hubris and its consequences. In many ways, Victor's creation on GitHub mirrors the very monstrosity he brought to life – a testament to the power of science and its unpredictable consequences. 
 
+ 
+
+ 
+
+ 
+
+ 
  
 
  
